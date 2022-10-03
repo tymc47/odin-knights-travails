@@ -3,8 +3,14 @@
  A function knightMoves that shows the shortest possible way for Knight to get from one sqaure to another
 
 ## Examples
- - knightMoves([0,0],[1,2]) == [[0,0],[1,2]]
- - knightMoves([3,3],[0,0]) == [[3,3],[1,2],[0,0]]
+ ```
+ knightMoves([3,3],[0,0])
+ You made it in 2 moves! Here's your path:
+[3,3]
+[2,1]
+[0,0]
+ ```
+ 
 
 ## Structure
 ####  `gameBoard` module 
